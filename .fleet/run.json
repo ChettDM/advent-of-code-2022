@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "python",
+            "name": "Day 3",
+            "arguments": ["day 3/packing.py"],
+        },
+        {
+            "type": "python",
+            "name": "Day 4, Part 1",
+            "arguments": ["day 4/cleaning-duty-part-1.py"],
+        },
+        {
+            "type": "python",
+            "name": "Day 4, Part 2",
+            "arguments": ["day 4/cleaning-duty-part-2.py"],
+        },
+        {
+            "type": "python",
+            "name": "Day 5, Part 1",
+            "arguments": ["day 5/d5-1.py"],
+        },
+        {
+            "type": "python",
+            "name": "Day 5, Part 2",
+            "arguments": ["day 5/d5-2.py"],
+        },
+        {
+            "type": "python",
+            "name": "Day 6, Part 1",
+            "arguments": ["day 6/d6-1.py"],
+        },
+        {
+            "type": "python",
+            "name": "Day 6, Part 2",
+            "arguments": ["day 6/d6-2.py"],
+        },
+    ]
+}
