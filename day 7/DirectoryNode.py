@@ -1,4 +1,0 @@
-class DirectoryNode:
-    thisIsADirectoryNode = false
-    
-

@@ -45,5 +45,25 @@
             "name": "Day 7, Part 2",
             "arguments": ["day 7/d7-2.py"],
         },
+        {
+            "type": "python",
+            "name": "Day 8, Part 1",
+            "arguments": ["day 8/d8-1.py"],
+        },
+        {
+            "type": "python",
+            "name": "Day 8, Part 2",
+            "arguments": ["day 8/d8-2.py"],
+        },
+        {
+            "type": "python",
+            "name": "Day 9, Part 1",
+            "arguments": ["day 9/1.py"],
+        },
+        {
+            "type": "python",
+            "name": "Day 9, Part 2",
+            "arguments": ["day 9/2.py"],
+        },
     ]
 }
